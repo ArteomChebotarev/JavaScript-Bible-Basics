@@ -1,1 +1,1 @@
-console.log("Hello first project");
+console.log("Hello from external JavaScript file!");
